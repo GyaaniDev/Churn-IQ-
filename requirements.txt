@@ -1,0 +1,9 @@
+# Pins preserve compatibility with the supplied scikit-learn 1.3.2 scaler pickle.
+streamlit==1.66.0
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.3.2
+lightgbm==4.6.0
+joblib==1.4.2
+plotly==5.24.1
+protobuf==5.29.5
